@@ -1,8 +1,11 @@
 ! Title: DNS AllowList
 
+! Shopee
 ccms.shopee.io
 ccms.shopee.*
 patronus.idata.shopeemobile.com
 c-api-bit.shopeemobile.com
 endpoint.mms.shopee.co.id
 endpoint.mms.shopee.*
+livetech.shopee.com.my
+df.infra.shopee.com.my
