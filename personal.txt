@@ -1,4 +1,8 @@
 ! Title: DNS AllowList
 
-||mask.icloud.com^
-||mask-h2.icloud.com^
+ccms.shopee.io
+ccms.shopee.*
+patronus.idata.shopeemobile.com
+c-api-bit.shopeemobile.com
+endpoint.mms.shopee.co.id
+endpoint.mms.shopee.*
