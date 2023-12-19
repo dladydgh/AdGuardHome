@@ -9,6 +9,7 @@ endpoint.mms.shopee.co.id
 endpoint.mms.shopee.*
 livetech.shopee.com.my
 df.infra.shopee.com.my
+data-rep.livetech.shopee.com.my
 
 ! Facebook / Instagram (META graph)
 b-graph.facebook.com
